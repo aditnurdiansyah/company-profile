@@ -3,8 +3,7 @@ This is the Company Profile Website
 
 ## 🌐 Live Demo
 
-Online Version :  
-https://company-profile-af-it.vercel.app
+🔗 [Online Version](https://company-profile-af-it.vercel.app)
 
 ## 📌 Main Features
 
